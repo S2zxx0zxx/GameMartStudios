@@ -365,5 +365,8 @@ Just don't blame us if something breaks.
 [WhatsApp](https://wa.me/9189106) &nbsp;·&nbsp; [Issues](../../issues) &nbsp;·&nbsp; [MIT License](LICENSE)
 
 *GameMart.Online — own the meta.*
+Added feature
+
+Co-authored-by: Friend Name <satyamm@gmail.com>
 
 </div>
