@@ -367,6 +367,6 @@ Just don't blame us if something breaks.
 *GameMart.Online — own the meta.*
 Added feature
 
-Co-authored-by: Friend Name <satyamm@gmail.com>
+Co-authored-by: Friend Name <satyammm@gmail.com>
 
 </div>
